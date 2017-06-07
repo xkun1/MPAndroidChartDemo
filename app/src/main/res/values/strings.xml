@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MPAndroidChartDemo</string>
+    <string name="app_title">MPAndroidChart3.0版的使用介绍</string>
+    <string name="name_LineChart">线形图</string>
+    <string name="name_BarChart">条形图</string>
+    <string name="name_PieChart">饼状图</string>
+    <string name="name_ScatterChart">散点图</string>
+    <string name="name_CandleStickChart">蜡烛图(K线图)</string>
+    <string name="name_BubbleChart">气泡图</string>
+    <string name="name_RadarChart">雷达图</string>
+
+</resources>
