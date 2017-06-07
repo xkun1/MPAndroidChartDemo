@@ -22,10 +22,28 @@
             android:name=".ui.LineChartActivity"
             android:parentActivityName=".MainActivity"
             tools:ignore="UnusedAttribute" />
-        <activity android:name=".ui.BarChartActivity"
+        <activity
+            android:name=".ui.BarChartActivity"
             android:parentActivityName=".MainActivity"
             tools:ignore="UnusedAttribute" />
-        <activity android:name=".ui.PieCharActivity"
+        <activity
+            android:name=".ui.PieCharActivity"
+            android:parentActivityName=".MainActivity"
+            tools:ignore="UnusedAttribute" />
+        <activity
+            android:name=".ui.ScatterChartActivity"
+            android:parentActivityName=".MainActivity"
+            tools:ignore="UnusedAttribute" />
+        <activity
+            android:name=".ui.BubbleChartActivity"
+            android:parentActivityName=".MainActivity"
+            tools:ignore="UnusedAttribute" />
+        <activity
+            android:name=".ui.CandleStickChartActivity"
+            android:parentActivityName=".MainActivity"
+            tools:ignore="UnusedAttribute" />
+        <activity
+            android:name=".ui.RadarChartChartActivity"
             android:parentActivityName=".MainActivity"
             tools:ignore="UnusedAttribute" />
     </application>
